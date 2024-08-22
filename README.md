@@ -23,8 +23,8 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/email-parser-service.git
-cd email-parser-service
+git clone https://github.com/jagruthvasa/Auto-Read-New-Email.git
+cd Auto-Read-New-Email
 ```
 
 ### 2. Configure Email Credentials
@@ -63,4 +63,14 @@ After starting the application, check the console output to verify that the IMAP
   - `MessageHandlerService.java`: Processes and prints email messages.
   - `EmailParserApplication.java`: Main class to run the Spring Boot application.
 - `src/main/resources/application.properties`: Configuration file for email credentials and server settings.
+
+
+## Sample Output
+
+![image](https://github.com/user-attachments/assets/221dbd05-020c-47cb-8817-571f11b843ee)
+
+
+## Contact 📞
+
+Vasa Sai Jagruth - [@LinkedIn](https://www.linkedin.com/in/jagruth/) - jagruthvasa@gmail.com - 9010545613
 
