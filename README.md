@@ -33,7 +33,7 @@ Make sure to add below properties in this file `src/main/resources/application.p
 
 ```properties
 email.address=your_email_address
-email.password=your_app_password(not your email passwoed)
+email.password=your_app_password(not your email password)
 ```
 
 ### 3. Build the Project
