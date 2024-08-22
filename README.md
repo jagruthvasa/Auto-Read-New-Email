@@ -62,7 +62,7 @@ After starting the application, check the console output to verify that the IMAP
   - `EmailService.java`: Handles email connection and retrieval.
   - `MessageHandlerService.java`: Processes and prints email messages.
   - `EmailParserApplication.java`: Main class to run the Spring Boot application.
-- `src/main/resources/application.properties`: Configuration file for email credentials and server settings.
+- `src/main/resources/application.properties`: Configuration file for email credentials.
 
 
 ## Sample Output
